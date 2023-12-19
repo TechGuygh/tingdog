@@ -1,0 +1,118 @@
+/* li{ */
+  /* padding-left: : 30px; */
+}
+/*
+.brand{
+  font-size: 50px;
+  color: white;
+} */
+/* .top-menus{
+  position: relative;
+  left: 20px;
+} */
+/* .navbar{
+  padding: 100px;
+  background-color: white;
+} */
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.brand{
+  font-family: "Ubuntu";
+   padding-right: 60%;
+   font-size: 3rem;
+   font-weight: bolder;
+   color: white;
+}
+
+.container-fluid{
+  padding: 1% 15%;
+  /* text-align: center; */
+  background-color: #ef8172;
+  /* height: 600px;
+  width: 100%; */
+}
+.middle-container{
+  text-align: center;
+  background-color: white;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  padding: 100px 15%;
+}
+.img-top{
+  width: 80%;
+  transform: rotate(28deg);
+  padding-top: 20px;
+}
+.fs-1{
+  /* text-align: center; */
+color: white;
+font-size: 100px;
+font-family: 'Montserrat-Black', sans-serif;
+width: 60%;
+padding: 20px;
+}
+/* button{
+  width: 60px;
+  height: 20px;
+} */
+p{
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: grey;
+  letter-spacing: 0px;
+  padding: 0px 15px
+}
+.Features-Box{
+  /* font-family: "ubuntu-bold"; */
+  font-size: 25px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  word-spacing: -5px;
+  line-height: normal;
+}
+
+.nav-item{
+  color: grey;
+  padding: 0px 8px;
+}
+
+.navbar{
+  padding-bottom: 50px;
+}
+
+.icon{
+  color: pink;
+  padding: 0px 0px 40px 0px;
+}
+.icon:hover{
+  color: red;
+}
+#Testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  height: 500px;
+  padding: 5% 15%
+}
+
+#Testimonials-text{
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: white;
+  font-family: "Montserrat-bold";
+}
+#img-topp{
+width: 300px;
+height: 300px;
+margin: 50px;
+
+}
+
+em{
+  color: white;
+  font-size: 20px;
+}
